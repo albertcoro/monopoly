@@ -1,0 +1,2 @@
+S'ha creat un fitxer de registre ./registre/Partida_1.txt que guardara totes les interaccions de la partida.
+Quants jugadors hi haura a la partida? (2-6)
